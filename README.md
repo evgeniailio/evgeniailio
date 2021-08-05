@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Evgenia Iliogamvrou and i have a BSc and MSc in Physics.
 - 👀 I’m interested in working in a data analysis or data science position
-- 🌱 I’m currently learning how to analyse and visualize data with the Power Bi programm. Also, i have started working with SQL Databases. I have already started my training with programming with r 
+- 🌱 I’m currently walking my way through an Applied Data Science specialization.. Also, i have worked with SQL Databases. I have already started my training with programming with r 
    and using the pandas library for analysing.
 - 📫 How to reach me: eiliopatras@gmail.com
 
