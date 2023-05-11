@@ -1,7 +1,5 @@
 - 👋 Hi, I’m Evgenia Iliogamvrou and i have a BSc and MSc in Physics.
-- 👀 I’m interested in working in a data analysis or data science position
-- 🌱 I’m currently walking my way through an Applied Data Science specialization.. Also, i have worked with SQL Databases. I have already started my training with programming with r 
-   and using the pandas library for analysing.
+- 👀 For the last years i have been working as a Data Analyst at a FinTech company.
 - 📫 How to reach me: eiliopatras@gmail.com
 
 <!---
