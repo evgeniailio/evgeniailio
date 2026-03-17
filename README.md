@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Evgenia Iliogamvrou and i have a BSc and MSc in Physics.
-- 👀 For the last years i have been working as a Data Analyst at a FinTech company.
+- 👋 Hi, I’m Evgenia Iliogamvrou and i have a BSc and MSc in Physics and Applied Meteorology.
+- 👀 For the last years i have been working as a Product Data Analyst at a various companies in FinTech and Market Research sectors.
 - 📫 How to reach me: eiliopatras@gmail.com
 
 <!---
